@@ -1,5 +1,5 @@
 ### Olá! Eu sou Michelly Moreira e estudo programação. Seja bem vinda(o)! 👋
-## Aprendi a gostar de tecnologia da informação por ser desafiadora, uma área em constante mudança, onde quanto mais eu aprendo mais eu tenho interesse em aprender.
+## Aprendi a gostar de tecnologia da informação por ser desafiadora. Uma área em constante mudança, onde tenho a oportunidade de aumentar o meu QA (quociente de adaptabilidade) e isso reflete de forma positiva no meu lado pessoal também. Espero um dia trabalhar em uma empresa de tecnologia, que queira fazer a diferença no mundo, que valorize e respeite as diferenças.
 
 
 ### Aqui você encontra as estatísticas do meu github:
@@ -27,7 +27,7 @@
 
 ## Por enquanto o meu nível de inglês é básico e atualmente estou estudando as tecnologias de backend.
 
-### Contato 
+### Contato:
 [![Linkedin](
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](
