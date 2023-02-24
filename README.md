@@ -27,7 +27,8 @@
 
 ## Por enquanto o meu nível de inglês é básico e atualmente estou estudando as tecnologias de backend.
 
-### Contato:
+*Contatos:*
+
 [![Linkedin](
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](
@@ -38,4 +39,5 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 )](
 https://api.whatsapp.com/send?phone=5531994501188
 )
-                                                                                                          ### Até mais! 
+
+## Até mais!
