@@ -27,7 +27,7 @@
 
 ## Por enquanto o meu nível de inglês é básico e atualmente estou estudando as tecnologias de backend.
 
-### Clique no botão abaixo para entrar em contato comigo, através do meu linkedin. 
+### Contato 
 [![Linkedin](
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](
