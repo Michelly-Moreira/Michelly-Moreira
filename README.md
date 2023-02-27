@@ -4,8 +4,8 @@
 
 ### Aqui você encontra as estatísticas do meu github:
 
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight"/>
+![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)
 
 
 ## Estas são algumas tecnologias que eu uso no meu dia a dia:
