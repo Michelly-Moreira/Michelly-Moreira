@@ -3,7 +3,7 @@
 Sabe algo que sempre esteve próximo, mas você nunca olhou de perto, até que um dia você presta atenção e aquilo se torna muito interessante? Assim é a programação na minha vida.
 Tenho pessoas na minha família, que estudam e trabalham na área, mas só quando recebi um convite da trybe para estudar programação e um incentivo incondicional da mulher que eu mais amo: a minha mãe. Foi que eu resolvi mergulhar nesse mundo tão vasto e tão interessante, que me fez transitar de carreira!
 ## Tenho experiência em HTML, CSS responsivo, git, git hub, React Native, javaScript, Redux, bootstrap, kanbam e scrum, TDD, cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySL).
-## Meu objetivo é trabalhar em projetos que facilitem o dia a dia das pessoas, que me agreguem  valores  pessoais e profissionais, prezando pela diversidade.
+## Meu objetivo é trabalhar em projetos que facilitem o dia a dia das pessoas, que agreguem  valores  pessoais e/ou profissionais, prezando pela diversidade e o respeito.
 
 
 
