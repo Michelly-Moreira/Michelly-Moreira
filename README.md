@@ -1,5 +1,7 @@
-### Olá! Eu sou Michelly Moreira e estudo programação. Seja bem vinda(o)! 👋
-## Aprendi a gostar de tecnologia da informação por ser desafiadora. Uma área em constante mudança, onde tenho a oportunidade de aumentar o meu QA (quociente de adaptabilidade), refletindo de forma positiva no meu pessoal. Espero um dia trabalhar em uma empresa de tecnologia, que queira fazer a diferença no mundo, que valorize e respeite as diferenças.
+## Olá! Eu sou Michelly Moreira, desenvolvedora back-end e estudante de programação na trybe. Seja bem vinda(o)! 👋
+# Formada em estética e cosmética. Eu trabalhava com maquiagem e penteado, em meu ateliê, quando veio a pandemia e o meu negócio não suportou.
+# Comecei a estudar tecnologia como um desafio pessoal e hoje me pego querendo saber mais e mais sobre a área.
+
 
 
 ### Aqui você encontra as estatísticas do meu github:
@@ -25,7 +27,7 @@
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
 
-## Por enquanto o meu nível de inglês é básico e atualmente estou estudando as tecnologias de backend.
+## Por enquanto o meu nível de inglês é básico e atualmente estou estudando MySql e sequelize.
 
 *Contatos:*
 
