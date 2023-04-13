@@ -3,6 +3,10 @@
 Sabe algo que sempre esteve próximo, mas você nunca olhou de perto, até que um dia você presta atenção e aquilo se torna muito interessante? Assim é a programação na minha vida.
 Tenho pessoas na minha família, que estudam e trabalham na área, mas só quando recebi um convite da trybe para estudar programação e o incentivo da mulher mais importante da minha vida: a minha mãe, foi que eu resolvi mergulhar no mundo da programação.
 Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
+#### Mais sobre mim:
+Não tomo café, mas gosto do cheiro.
+Meu chocolate favorito é o Caribe, da garoto.
+Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com família.
 ### Meu objetivo é trabalhar em projetos que prezem pela diversidade e o respeito, projetos que incentivem a cultura e facilitem o dia a dia das pessoas.
 ## Tenho experiência em HTML, CSS responsivo, git, Git Hub, React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL).
 
