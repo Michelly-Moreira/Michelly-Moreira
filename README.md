@@ -4,8 +4,9 @@ Sabe algo que sempre esteve próximo, mas você nunca olhou de perto, até que u
 Tenho pessoas na minha família, que estudam e trabalham na área, mas só quando recebi um convite da trybe para estudar programação e o incentivo da mulher mais importante da minha vida: a minha mãe, foi que eu resolvi mergulhar no mundo da programação.
 Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
 #### Mais sobre mim:
-<img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
-#### Pontos fortes:
+<img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> 
+A Katniss é o personagem com quem me identifico, por sua personalidade </br>
+#### Meus pontos fortes:
 - Tenho sede genuína de conhecimento;</br>
 - Ser empática com as emoções dos outros;</br>
 - Estrategista;</br>
