@@ -5,14 +5,15 @@ Tenho pessoas na minha família, que estudam e trabalham na área, mas só quand
 Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
 #### Mais sobre mim:
 <img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
-
-#### Meus pontos fortes:
+<details>
+<summary><strong>:muscle: Meus pontos fortes </strong></summary>
 - Tenho sede genuína de conhecimento;</br>
 - Ser empática com as emoções dos outros;</br>
 - Estrategista;</br>
 - Meus valores me guiam, não o dinheiro;</br>
 - A ação é meu maior professor.</br>
-#### Curiosidades sobre mim:
+<details/>
+<summary><strong>:mag: Curiosidades sobre mim </strong></summary>
 - Tenho tripofobia. </br>
 - Não tomo café, mas gosto do cheiro.</br>
 - Meu chocolate favorito é o Caribe, da garoto.</br>
