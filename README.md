@@ -4,7 +4,7 @@ Sabe algo que sempre esteve próximo, mas você nunca olhou de perto, até que u
 Tenho pessoas na minha família, que estudam e trabalham na área, mas só quando recebi um convite da trybe para estudar programação e o incentivo da mulher mais importante da minha vida: a minha mãe, foi que eu resolvi mergulhar no mundo da programação.
 Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
 ### Meu objetivo é trabalhar em projetos que prezem pela diversidade e o respeito, projetos que incentivem a cultura e facilitem o dia a dia das pessoas.
-## Tenho experiência em HTML, CSS responsivo, git, Git Hub,React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySL).
+## Tenho experiência em HTML, CSS responsivo, git, Git Hub, React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL).
 
 
 
@@ -15,7 +15,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)
 
 
-## Estas são algumas tecnologias que eu uso no meu dia a dia:
+### Estas são algumas tecnologias que eu uso no meu dia a dia:
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,7 +32,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
 
-## Por enquanto o meu nível de inglês é básico e atualmente estou estudando MySql e sequelize.
+### Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.
 
 *Contatos:*
 
