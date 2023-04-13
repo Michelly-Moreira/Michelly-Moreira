@@ -3,7 +3,7 @@
 Sabe algo que sempre esteve próximo, mas você nunca olhou de perto, até que um dia você presta atenção e aquilo se torna muito interessante? Assim é a programação na minha vida.
 Tenho pessoas na minha família, que estudam e trabalham na área, mas só quando recebi um convite da trybe para estudar programação e o incentivo da mulher mais importante da minha vida: a minha mãe, foi que eu resolvi mergulhar no mundo da programação.
 Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
-#### Mais sobre mim:
+
 <img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
 
 <details>
