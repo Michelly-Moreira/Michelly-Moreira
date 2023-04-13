@@ -8,11 +8,11 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 
 <details>
 <summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
-- Tenho sede genuína de conhecimento;</br>
-- Ser empática com as emoções dos outros;</br>
-- Estrategista;</br>
-- Meus valores me guiam, não o dinheiro;</br>
-- A ação é meu maior professor.</br>
+* Tenho sede genuína de conhecimento;</br>
+* Ser empática com as emoções dos outros;</br>
+* Estrategista;</br>
+* Meus valores me guiam, não o dinheiro;</br>
+* A ação é meu maior professor.</br>
 </details>
 
 <details>
