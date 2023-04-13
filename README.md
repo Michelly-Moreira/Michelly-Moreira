@@ -8,20 +8,24 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 
 <details>
 <summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
-* Tenho sede genuína de conhecimento;</br>
-* Ser empática com as emoções dos outros;</br>
-* Estrategista;</br>
-* Meus valores me guiam, não o dinheiro;</br>
-* A ação é meu maior professor.</br>
+
+- Tenho sede genuína de conhecimento;</br>
+- Ser empática com as emoções dos outros;</br>
+- Estrategista;</br>
+- Meus valores me guiam, não o dinheiro;</br>
+- A ação é meu maior professor.</br>
+
 </details>
 
 <details>
 <summary><strong>:mag: Curiosidades sobre mim</strong></summary></br>
+
 - Tenho tripofobia. </br>
 - Não tomo café, mas gosto do cheiro.</br>
 - Meu chocolate favorito é o Caribe, da garoto.</br>
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
 - Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com a minha família.</br>
+
 </details>
 
 ### Meu objetivo é trabalhar em projetos que prezem pela diversidade e o respeito, projetos que incentivem a cultura e facilitem o dia a dia das pessoas.
@@ -29,14 +33,15 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 
 
 
-
-### Aqui você encontra as estatísticas do meu github:
+<details>
+<summary><strong>Aqui você encontra as estatísticas do meu github</summary></strong></br>
 
 ![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)
+</details>
 
-
-### Estas são algumas tecnologias que eu uso no meu dia a dia:
+<details>
+<summary><strong>Algumas tecnologias que eu uso no meu dia a dia</summary></strong></br>
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -52,7 +57,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 <img align="center" alt="git_hub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
-
+</details>
 ### Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.
 
 *Contatos:*
