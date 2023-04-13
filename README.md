@@ -12,13 +12,15 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 - Estrategista;</br>
 - Meus valores me guiam, não o dinheiro;</br>
 - A ação é meu maior professor.</br>
-<details/>
+<details/></br>
+<details>
 <summary><strong>:mag: Curiosidades sobre mim </strong></summary>
 - Tenho tripofobia. </br>
 - Não tomo café, mas gosto do cheiro.</br>
 - Meu chocolate favorito é o Caribe, da garoto.</br>
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
 - Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com a minha família.</br>
+<details/></br>
 ### Meu objetivo é trabalhar em projetos que prezem pela diversidade e o respeito, projetos que incentivem a cultura e facilitem o dia a dia das pessoas.
 ## Tenho experiência em HTML, CSS responsivo, git, Git Hub, React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL).
 
