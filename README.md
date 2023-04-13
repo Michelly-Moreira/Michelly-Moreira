@@ -5,7 +5,7 @@ Tenho pessoas na minha família, que estudam e trabalham na área, mas só quand
 Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
 #### Mais sobre mim:
 <img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
-A Katniss, de jogos vorazes, é o personagem com quem me identifico.
+
 #### Meus pontos fortes:
 - Tenho sede genuína de conhecimento;</br>
 - Ser empática com as emoções dos outros;</br>
