@@ -32,13 +32,8 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 ## Tenho experiência em HTML, CSS responsivo, git, Git Hub, React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL).
 
 
-
-<details>
-<summary><strong>Aqui você encontra as estatísticas do meu github</summary></strong></br>
-
 ![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)
-</details>
 
 <details>
 <summary><strong>Algumas tecnologias que eu uso no meu dia a dia</summary></strong></br>
