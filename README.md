@@ -47,7 +47,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align="center" alt="git_hub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div><br/>
+</div></br>
 ### Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.</br>
 
 *Contatos:*
