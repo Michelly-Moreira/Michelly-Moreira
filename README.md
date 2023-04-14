@@ -49,7 +49,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
 
-<strong>Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.</strong></br>
+###Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.</br>
 
 *Contatos:*
 
