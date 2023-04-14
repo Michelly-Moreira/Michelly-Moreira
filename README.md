@@ -29,10 +29,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 </details>
 
 ### Meu objetivo é trabalhar em projetos que prezem pela diversidade e o respeito, projetos que incentivem a cultura e facilitem o dia a dia das pessoas.
-## Tenho experiência em HTML, CSS responsivo, git, Git Hub, React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL).
 
-
-![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)
 
 <strong>Algumas tecnologias que eu uso no meu dia a dia</strong></br>
