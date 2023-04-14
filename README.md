@@ -32,11 +32,10 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 ## Tenho experiência em HTML, CSS responsivo, git, Git Hub, React Native, javaScript, Redux, Bootstrap, Kanbam e Scrum, TDD, Cypress, Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL).
 
 
-![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight)</br>
+![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelly-Moreira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)
 
-<details>
-<summary><strong>Algumas tecnologias que eu uso no meu dia a dia</summary></strong></br>
+<strong>Algumas tecnologias que eu uso no meu dia a dia</strong></br>
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -51,7 +50,7 @@ Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma 
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align="center" alt="git_hub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</details></div><br/>
+</div><br/>
 
 <strong>Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.</strong></br>
 
