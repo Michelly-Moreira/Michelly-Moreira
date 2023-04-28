@@ -1,8 +1,9 @@
-## Olá! Eu sou Michelly Moreira, desenvolvedora front-end e estudante de programação na trybe. Seja bem vinda(o)! 👋
+## Olá! Eu sou Michelly Moreira, desenvolvedora front-end, estudante de programação e UX/UI Design. Seja bem vinda(o)! 👋
 ### Formada em estética e cosmética. Eu trabalhava com maquiagem e penteado, em meu ateliê, quando veio a pandemia e o meu negócio 'crashou'.
-Sabe algo que sempre esteve próximo, mas você nunca olhou de perto, até que um dia você presta atenção e aquilo se torna muito interessante? Assim é a programação na minha vida.
-Tenho pessoas na minha família, que estudam e trabalham na área, mas só quando recebi um convite da trybe para estudar programação e o incentivo da mulher mais importante da minha vida: a minha mãe, foi que eu resolvi mergulhar no mundo da programação.
-Para quem gosta de aprender, assim como eu, a programação é estimulante. Uma área repleta de possibilidades de aprendizado.
+
+Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria.
+
+No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introdução ao UX), pude conhecer o caso do Doug Dietz, que através do design thinking conseguiu diminuir consideravelmente o uso de sedativos em crianças e otimizar a experiência delas ao se submeterem à exames de ressonância magnética. Saber que uma criança, após o exame, perguntou pra mãe se podia voltar no dia seguinte, aqueceu meu coração. A partir daquele momento eu tive certeza que a área de tecnologia é pra mim. 
 
 <img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
 
