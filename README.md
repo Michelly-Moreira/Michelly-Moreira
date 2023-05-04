@@ -1,4 +1,5 @@
-## Olá! Eu sou Michelly Moreira, desenvolvedora front-end. Seja bem vinda(o)! 👋
+## Olá! Eu sou Michelly Moreira, desenvolvedora front-end.
+## Seja bem vinda(o)! 👋
 Formada em estética e cosmética. Eu trabalhava com maquiagem e penteado, em meu ateliê, quando veio a pandemia e o meu negócio 'crashou'.
 
 ### Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria.
