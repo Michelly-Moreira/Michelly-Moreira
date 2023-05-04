@@ -3,7 +3,7 @@ Formada em estética e cosmética. Eu trabalhava com maquiagem e penteado, em me
 
 ### Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria.
 
-No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introdução ao UX), pude conhecer o caso do Doug Dietz, que através do design thinking conseguiu diminuir consideravelmente o uso de sedativos em crianças e otimizar a experiência delas ao se submeterem à exames de ressonância magnética. Saber que uma criança, após o exame, perguntou pra mãe se podia voltar no dia seguinte, aqueceu meu coração. A partir daquele momento eu tive certeza que a área de tecnologia é pra mim. 
+No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introdução ao UX) de UX/UI Design, pude conhecer o caso do Doug Dietz, que através do design thinking conseguiu diminuir consideravelmente o uso de sedativos em crianças e otimizar a experiência delas ao se submeterem à exames de ressonância magnética. Saber que uma criança, após o exame, perguntou pra mãe se podia voltar no dia seguinte, aqueceu meu coração. A partir daquele momento eu tive certeza que a área de tecnologia é pra mim. 
 
 <img src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
 
@@ -64,5 +64,6 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 )](
 https://api.whatsapp.com/send?phone=5531994501188
 )
+<a href="mailto:michelly.daiana@hotmail.com"></a>
 
 <strong>Até mais!</strong>
