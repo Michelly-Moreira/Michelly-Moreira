@@ -27,7 +27,7 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
 - Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com a minha família.</br>
 
-</details
+</details>
 
 ### Meu objetivo é criar projetos mais usáveis, inclusivos, desejáveis e inteligentes.
 
