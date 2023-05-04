@@ -64,6 +64,10 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 )](
 https://api.whatsapp.com/send?phone=5531994501188
 )
-<a href = "mailto:michelly.daiana@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Hotmail Badge](
+https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com
+)](
+mailto:michelly.daiana@hotmail.com
+)
 
 <strong>Até mais!</strong>
