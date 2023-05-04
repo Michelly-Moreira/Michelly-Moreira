@@ -69,5 +69,6 @@ https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-o
 )](
 mailto:michelly.daiana@hotmail.com
 )
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 <strong>Até mais!</strong>
