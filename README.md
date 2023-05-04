@@ -1,4 +1,4 @@
-## Olá! Eu sou Michelly Moreira, desenvolvedora front-end, estudante de programação e UX/UI Design. Seja bem vinda(o)! 👋
+## Olá! Eu sou Michelly Moreira, desenvolvedora front-end. Seja bem vinda(o)! 👋
 Formada em estética e cosmética. Eu trabalhava com maquiagem e penteado, em meu ateliê, quando veio a pandemia e o meu negócio 'crashou'.
 
 ### Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria.
@@ -29,7 +29,7 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 
 </details>
 
-### Meu objetivo é trabalhar em projetos que prezem pela diversidade e o respeito, projetos que incentivem a cultura e facilitem o dia a dia das pessoas.
+### Meu objetivo é criar projetos mais usáveis, inclusivos, desejáveis e inteligentes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)</br>
 
@@ -50,7 +50,7 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div></br>
 
-### Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.</br>
+### :seedling:Atualmente estou aprendendo UX/UI Design</br>
 
 *Como entrar em contato comigo:*
 
