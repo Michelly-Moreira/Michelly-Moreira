@@ -70,5 +70,5 @@ https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-o
 )](
 mailto:michelly.daiana@hotmail.com
 )
-![Snake animation](https://github.com/Michelly-Moreira/Michelly-Moreira/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Michelly-Moreira/Michelly-Moreira/blob/output/github-contribution-grid-snake.svg)]
 <strong>Até mais!</strong>
