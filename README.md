@@ -64,6 +64,11 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 )](
 https://api.whatsapp.com/send?phone=5531994501188
 )
+[![Hotmail](
+https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white
+)](
+mailto:michelly.daiana@hotmail.com
+)
 [![Hotmail Badge](
 https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com
 )](
