@@ -52,7 +52,7 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 
 ### Por enquanto o meu nível de inglês é básico e atualmente estou estudando typeScript.</br>
 
-*Contatos:*
+*Como entrar em contato comigo:*
 
 [![Linkedin](
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -64,7 +64,5 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 )](
 https://api.whatsapp.com/send?phone=5531994501188
 )
-
-<a href="michelly.daiana@hotmail.com"></a>
 
 <strong>Até mais!</strong>
