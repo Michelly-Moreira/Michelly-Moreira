@@ -52,7 +52,6 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 </div></br>
 
 ### :seedling:Atualmente estou aprendendo UX/UI Design</br>
-![Snake animation](https://github.com/Michelly-Moreira/Michelly-Moreira/blob/output/github-contribution-grid-snake.svg)
 
 *Como entrar em contato comigo:*
 
