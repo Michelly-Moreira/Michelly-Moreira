@@ -6,29 +6,33 @@ Formada em estética e cosmética. Eu trabalhava com maquiagem e penteado, em me
 
 No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introdução ao UX) de UX/UI Design, pude conhecer o caso do Doug Dietz, que através do design thinking conseguiu diminuir consideravelmente o uso de sedativos em crianças e otimizar a experiência delas ao se submeterem à exames de ressonância magnética. Saber que uma criança, após o exame, perguntou pra mãe se podia voltar no dia seguinte, aqueceu meu coração. A partir daquele momento eu tive certeza que a área de tecnologia é pra mim. 
 
-<img width="300" height="150" src=https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif /> </br>
+<br>
 
-<details>
-<summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
-
+<table border="0">
+  <tr>
+    <td>
+      <details>
+          <summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
 - Tenho sede genuína de conhecimento;</br>
 - Ser empática com as emoções dos outros;</br>
 - Estrategista;</br>
 - Meus valores me guiam, não o dinheiro;</br>
 - A ação é meu maior professor.</br>
-
-</details>
-
-<details>
-<summary><strong>:mag: Curiosidades sobre mim</strong></summary></br>
-
+      </details>
+      <details>
+          <summary><strong>:mag: Curiosidades sobre mim</strong></summary></br>
 - Tenho tripofobia. </br>
 - Não tomo café, mas gosto do cheiro.</br>
 - Meu chocolate favorito é o Caribe, da garoto.</br>
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
 - Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com a minha família.</br>
-
-</details>
+      </details>
+    </td> 
+    <td>
+      <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif'>
+    </td>
+  </tr>
+</table>
 
 ### Meu objetivo é criar projetos mais usáveis, inclusivos, desejáveis e inteligentes.
 
