@@ -36,8 +36,6 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 
 ### Meu objetivo é criar projetos mais usáveis, inclusivos, desejáveis e inteligentes.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelly-Moreira&layout=compact&langs_count-16&theme=tokyonight)</br>
-
 ### Algumas tecnologias que eu uso no meu dia a dia</br>
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
