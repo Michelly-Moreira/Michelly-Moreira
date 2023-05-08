@@ -10,9 +10,6 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 
 <table border="0">
   <tr>
-     <td>
-      <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif'>
-    </td>
     <td>
       <details>
           <summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
@@ -30,6 +27,9 @@ No dia 25 de abril de 2023, assistindo a aula 2 (Designing for people: Introduç
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
 - Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com a minha família.</br>
       </details>
+      <td>
+      <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif'>
+    </td>
     </td> 
   </tr>
 </table>
