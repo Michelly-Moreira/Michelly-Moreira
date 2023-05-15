@@ -4,7 +4,7 @@ Eu tinha um ateliê de maquiagem e penteado, que não resistiu a pandemia. No mo
 ### Formei em desenvolvimento de software(frontend), através da trybe, me mantendo on-track durante todo o módulo. Entre algumas skills que tenho conhecimento estão HTML, CSS, node.js, MySQL e a linguagem de programação: JavaScript. <br>
 Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria. <br>
 ### Meu objetivo é proporcionar a melhor experiência ao usuário, criando projetos mais usáveis, inclusivos, desejáveis e inteligentes. <br>
-Atualmente estudo UX/UI design, figma e estou concluindo o backend. <br>
+
 <table border="0">
   <tr>
     <td>
