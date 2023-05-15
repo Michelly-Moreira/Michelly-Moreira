@@ -3,7 +3,7 @@
 Eu tinha um ateliê de maquiagem e penteado, que não resistiu a pandemia. No momento estou em transição de carreira. <br>
 ### Formei em desenvolvimento de software(frontend), através da trybe, me mantendo on-track durante todo o módulo. Entre algumas skills que tenho conhecimento estão HTML, CSS, node.js, MySQL e a linguagem de programação: JavaScript. <br>
 Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria. <br>
-### Meu objetivo é encantar usuários criando projetos mais usáveis, inclusivos, desejáveis e inteligentes. <br>
+### Meu objetivo é proporcionar a melhor experiência ao usuário, criando projetos mais usáveis, inclusivos, desejáveis e inteligentes. <br>
 Atualmente estudo UX/UI design, figma e estou concluindo o backend. <br>
 <table border="0">
   <tr>
@@ -30,23 +30,8 @@ Atualmente estudo UX/UI design, figma e estou concluindo o backend. <br>
     </td> 
   </tr>
 </table>
-### Algumas tecnologias que eu uso no meu dia a dia</br>
-<div style="display: inline_block"></br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="react_router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-<img align="center" alt="react_testing_library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
-<div style="display: inline_block"></br>
-<img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img align="center" alt="git_hub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div></br>
-### :seedling:Atualmente estou aprendendo UX/UI Design, Figma e Typescript</br>
+</br>
+### :seedling: Atualmente estou aprendendo UX/UI Design, Figma e Typescript</br>
 
 *Como entrar em contato comigo:*
 
