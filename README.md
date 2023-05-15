@@ -31,7 +31,7 @@ Atualmente estudo UX/UI design, figma e estou concluindo o backend. <br>
   </tr>
 </table>
 </br>
-### :seedling: Atualmente estou aprendendo UX/UI Design, Figma e Typescript</br>
+:seedling: Atualmente estou aprendendo UX/UI Design, Figma e Typescript</br>
 
 *Como entrar em contato comigo:*
 
