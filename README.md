@@ -1,6 +1,5 @@
 ## Olá! Eu sou Michelly Moreira
 ## Seja bem vinda(o)! 👋
-Eu tinha um ateliê de maquiagem e penteado, que não resistiu a pandemia. No momento estou em transição de carreira. <br>
 ### Formei em desenvolvimento de software através da trybe, me mantendo on-track durante todos os módulos. Entre algumas skills que tenho conhecimento estão HTML, CSS, Node.js, MySQL, Workbench, Typescript, Docker, JavaScript, análise de dados e métodologias agéis. <br>
 Entrei na área de tecnologia por curiosidade, mas eu não podia querer trabalhar na área somente pela questão financeira e pela liberdade que o trabalho home office traz, isso me desmotivaria. <br>
 ### Meu objetivo é proporcionar a melhor experiência ao usuário, criando projetos mais usáveis, inclusivos, desejáveis e inteligentes. <br>
