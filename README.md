@@ -31,7 +31,7 @@ Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criand
   </tr>
 </table>
 </br>
-:seedling: Atualmente estou aprendendo UX/UI Design, Figma e Python</br>
+:seedling: Atualmente estou aprendendo UX/UI Design, Figma e C#</br>
 
 *Como entrar em contato comigo:*
 
