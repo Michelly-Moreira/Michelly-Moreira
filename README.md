@@ -1,7 +1,7 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br>
 Formei em desenvolvimento de software através da trybe, me mantendo on-track durante todos os módulos. <br>
-Entre algumas skills que tenho conhecimento estão HTML, CSS, React, MySQL, Typescript, Docker, lifeC, ciclo de vida dos componentes, JavaScript, Bootstrap, métodologias agéis, comunicação e trabalho em equipe. <br>
+Entre algumas skills que tenho conhecimento estão HTML, CSS, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, métodologias agéis, comunicação e trabalho em equipe. <br>
 
 Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criando projetos que melhorem as vidas delas e curem dores. <br>
 
