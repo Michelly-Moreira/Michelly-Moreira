@@ -21,8 +21,8 @@ Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criand
 - Tenho tripofobia. </br>
 - Não tomo café, mas gosto do cheiro.</br>
 - Meu chocolate favorito é o Caribe, da garoto.</br>
-- Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
-- Nas horas vagas eu gosto de estar com a minha família, ler e praticar duolingo.</br>
+- Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam infelizes.</br>
+- Nas horas vagas eu gosto de conhecer novos lugares, desfrutar de momentos com familia e pessoas amigas, ler e praticar duolingo.</br>
       </details>
       <td>
       <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif'>
