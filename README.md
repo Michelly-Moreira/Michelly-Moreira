@@ -14,7 +14,7 @@ Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criand
 - Sou empática com as emoções dos outros;</br>
 - Aprecio autonomia e liberdade;</br>
 - Meus valores me guiam, não o dinheiro;</br>
-- Objetiva, gosto de trabalhar por uma causa.</br>
+- Sou motivada quando trabalho por uma causa.</br>
       </details>
       <details>
           <summary><strong>:mag: Curiosidades sobre mim</strong></summary></br>
@@ -22,7 +22,7 @@ Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criand
 - Não tomo café, mas gosto do cheiro.</br>
 - Meu chocolate favorito é o Caribe, da garoto.</br>
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam tristes e anciosas.</br>
-- Nas horas vagas eu gosto de pintar, maquiar, costurar, ler, assistir reality shows, viajar e estar com a minha família.</br>
+- Nas horas vagas eu gosto de estar com a minha família, ler e praticar duolingo.</br>
       </details>
       <td>
       <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif'>
