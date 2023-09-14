@@ -1,9 +1,9 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br>
-Formei em desenvolvimento de software através da trybe, me mantendo on-track durante todos os módulos. <br>
-Entre algumas skills que tenho conhecimento estão HTML, CSS, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, métodologias agéis, comunicação e trabalho em equipe. <br>
+Formei em programação de software full-stack através da trybe e também concluí o curso de Figma da DIO, ambos em setembro deste ano. <br>
+Entre algumas skills que tenho conhecimento estão HTML5, CSS3, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, Figma, métodologias agéis, comunicação e trabalho em equipe. <br>
 
-Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criando projetos que melhorem as vidas delas e curem dores. <br>
+Meu objetivo é fazer transição de carreira, quero trabalhar como front-end, criar projetos que ajudem a vida das pessoas. <br>
 
 <table border="0">
   <tr>
@@ -31,7 +31,7 @@ Meu objetivo é proporcionar a melhor experiência às pessoas usuárias, criand
   </tr>
 </table>
 </br>
-:seedling: Atualmente estou aprendendo UX/UI Design, Figma e C#</br>
+:seedling: Atualmente estou aprendendo UX/UI Design e praticando meus conhecimentos com projetos e novos cursos de front-end </br>
 
 *Como entrar em contato comigo:*
 
