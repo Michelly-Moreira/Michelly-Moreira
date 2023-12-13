@@ -1,8 +1,8 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br>
-Sou estudante de Engenharia de Design de Software.
-Terminei um curso livre com mais de 1.500 horas em programação de software (full-stack). <br>
-Entre algumas skills que tenho conhecimento estão HTML5, CSS3, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, Figma, python, C#, métodologias agéis, comunicação e trabalho em equipe. <br>
+Sou estudante de Engenharia de Design de Software. <br>
+Em setembro de 2023 terminei um curso livre com mais de 1.500 horas em programação de software (full-stack) e de lá pra cá tenho continuado a fazer cursos livres na área. <br>
+Entre algumas skills que tenho conhecimento estão a lógica de programação, HTML5, CSS3, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, Figma, python, C#, métodologias agéis, comunicação e trabalho em equipe. <br>
 
 Meu objetivo é fazer transição de carreira, quero trabalhar como front-end, criar projetos que ajudem a vida das pessoas. <br>
 
