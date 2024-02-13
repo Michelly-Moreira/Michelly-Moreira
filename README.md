@@ -1,10 +1,10 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br><br>
-Sou estudante de Engenharia de design digital. <br>
+Sou estudante de Sistema de informação. <br>
 Em setembro de 2023 terminei um curso livre com mais de 1.500 horas em programação de software (full-stack) e estou sempre fazendo cursos livres na área. <br>
-Entre algumas skills que tenho conhecimento estão a lógica de programação, HTML5, CSS3, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, Figma, python, C# e métodologias agéis(kanban e scrun). <br>
+Entre algumas skills que tenho conhecimento estão a lógica de programação, HTML5, CSS3, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, Node.js, Figma, python, C# e métodologias agéis(kanban e scrun). <br>
 
-Meu objetivo é fazer transição de carreira, quero trabalhar como ux/ui ou front-end. Quero criar projetos que ajudem a vida das pessoas. <br>
+Meu objetivo é fazer transição de carreira, quero trabalhar como desenvolvedora de software. Quero criar projetos que ajudem a vida das pessoas. <br>
 
 <table border="0">
   <tr>
@@ -32,7 +32,7 @@ Meu objetivo é fazer transição de carreira, quero trabalhar como ux/ui ou fro
   </tr>
 </table>
 </br>
-:seedling: Atualmente estou aprendendo UX/UI Design e praticando meus conhecimentos com projetos e novos cursos de front-end </br>
+:seedling: Atualmente estou aprendendo UX/UI Design e praticando meus conhecimentos com projetos e novos cursos na programação. </br>
 
 *Como entrar em contato comigo:*
 
