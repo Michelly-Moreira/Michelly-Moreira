@@ -1,7 +1,7 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br><br>
 Sou desenvolvedora web full-stack e estudante de sistema de informação. <br>
-Entre algumas hard skills que tenho conhecimento e habilidade, estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (bundler/empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
+Entre algumas hard skills que tenho conhecimento e habilidade, estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
 
 Meu objetivo é fazer transição de carreira, quero ajudar a criar softwares que ajudem a vida das pessoas. <br>
 
