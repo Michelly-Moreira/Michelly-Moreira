@@ -1,5 +1,5 @@
 ## Olá! Eu sou Michelly Moreira
-Seja bem vinda(o)! 👋 <br><br>
+Seja bem vinda(o)! 👋 <br>
 Sou estudante de Sistema de informação. <br>
 Em setembro de 2023 terminei um curso livre com mais de 1.500 horas em programação de software (full-stack) e estou sempre fazendo cursos livres na área. <br>
 Entre algumas hard skills que tenho conhecimento estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (bundler/empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
