@@ -2,7 +2,7 @@
 Seja bem vinda(o)! 👋 <br><br>
 Sou estudante de Sistema de informação. <br>
 Em setembro de 2023 terminei um curso livre com mais de 1.500 horas em programação de software (full-stack) e estou sempre fazendo cursos livres na área. <br>
-Entre algumas skills que tenho conhecimento estão a lógica de programação, HTML5, CSS3, React, MySQL, Typescript, Docker, ciclo de vida dos componentes, JavaScript, Bootstrap, Node.js, Figma, python, C# e métodologias agéis(kanban e scrun). <br>
+Entre algumas hard skills que tenho conhecimento estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (bundler/empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
 
 Meu objetivo é fazer transição de carreira, quero trabalhar como desenvolvedora de software. Quero criar projetos que ajudem a vida das pessoas. <br>
 
@@ -14,7 +14,7 @@ Meu objetivo é fazer transição de carreira, quero trabalhar como desenvolvedo
 - Tenho sede genuína de conhecimento;</br>
 - Sou empática com as emoções dos outros;</br>
 - Aprecio autonomia e liberdade;</br>
-- Meus valores me guiam, não o dinheiro;</br>
+- Com perfil agregador, acredito que pessoas que pensam diferente podem trazer ideias agregadoras;</br>
 - Sou motivada quando trabalho por uma causa.</br>
       </details>
       <details>
