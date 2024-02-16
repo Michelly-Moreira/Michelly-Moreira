@@ -12,7 +12,6 @@ Meu objetivo é fazer transição de carreira, quero ajudar a criar softwares qu
           <summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
 - Tenho sede genuína de conhecimento;</br>
 - Sou empática com as emoções dos outros;</br>
-- Aprecio autonomia e liberdade;</br>
 - Com perfil agregador, acredito que pessoas que pensam diferente podem trazer ideias agregadoras;</br>
 - Sou motivada quando trabalho por uma causa.</br>
       </details>
