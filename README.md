@@ -1,10 +1,9 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br>
-Sou estudante de Sistema de informação. <br>
-Em setembro de 2023 terminei um curso livre com mais de 1.500 horas em programação de software (full-stack) e estou sempre fazendo cursos livres na área. <br>
+Sou estudante do curso de Sistema de informação, mas meu primeiro contato com a programação foi num curso de desenvolvimento web, na Trybe. <br>
 Entre algumas hard skills que tenho conhecimento estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (bundler/empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
 
-Meu objetivo é fazer transição de carreira, quero trabalhar como desenvolvedora de software. Quero criar projetos que ajudem a vida das pessoas. <br>
+Meu objetivo é fazer transição de carreira, quero ajudar a criar softwares que ajudem a vida das pessoas. <br>
 
 <table border="0">
   <tr>
@@ -32,7 +31,7 @@ Meu objetivo é fazer transição de carreira, quero trabalhar como desenvolvedo
   </tr>
 </table>
 </br>
-:seedling: Atualmente estou aprendendo UX/UI Design e praticando meus conhecimentos com projetos e novos cursos na programação. </br>
+:seedling: Atualmente estou aprendendo também UX/UI Design e praticando meus conhecimentos com projetos e novos cursos livres na programação. </br>
 
 *Como entrar em contato comigo:*
 
