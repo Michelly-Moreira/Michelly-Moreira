@@ -5,8 +5,7 @@ No estágio, uso a linguagem C# e SQL para desenvolvimento e manutenção do sof
 Atendo os analistas, por meio da plataforma da empresa e canais de comunicação, visando sempre a resolução de problemas. <br>
 Analiso os chamados, identifico os problemas, soluciono e respondo de maneira cordial. <br>
 Oriento/auxilio os analistas na utilização da plataforma web, utilizando a documentação para orientá-los. <br>
-E atualizo a documentação. <br><br>
-Entre algumas hard skills que tenho conhecimento, estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
+E atualizo a documentação. <br>
 
 Meu objetivo é me desenvolver mais e conquistar minha primeira vaga de juninho. <br>
 
@@ -14,11 +13,21 @@ Meu objetivo é me desenvolver mais e conquistar minha primeira vaga de juninho.
   <tr>
     <td>
       <details>
-          <summary><strong>:muscle: Meus pontos fortes</strong></summary></br>
-- Tenho sede genuína de conhecimento;</br>
-- Sou empática com as emoções dos outros;</br>
-- Com perfil agregador, acredito que pessoas que pensam diferente podem trazer ideias agregadoras;</br>
-- Sou motivada quando trabalho por uma causa.</br>
+          <summary><strong>:muscle: HardSkills que tenho conhecimento</strong></summary></br>
+- lógica de programação; <br>
+- linguagens de programação (JavaScript, python e C#); <br>
+- TypeScript; <br>
+- Linguagem de marcação HTML5, CSS3; <br>
+- Bootstrap (framework front-end); <br>
+- React (uma das bibliotecas mais utilizadas para criação de aplicações front-end); <br>
+- Vite (empacotador); <br>
+- Docker; <br>
+- SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional); <br>
+- Banco de dados MySQL; <br>
+- MySQL workbench (interface gráfica mais utilizada para o MySQL); <br>
+- Node.js; <br>
+- Figma; <br>
+- Métodologias agéis(kanban e scrun). <br>
       </details>
       <details>
           <summary><strong>:mag: Curiosidades sobre mim</strong></summary></br>
