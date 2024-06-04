@@ -1,9 +1,14 @@
 ## Olá! Eu sou Michelly Moreira
 Seja bem vinda(o)! 👋 <br><br>
-Sou desenvolvedora web full-stack e estudante de sistema de informação. <br>
-Entre algumas hard skills que tenho conhecimento e habilidade, estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
+Sou estagiária em desenvolvimento de software, na Atos Capital e estudante de ensino superior (Sistema da informação), na UNIFATECIE. <br>
+No estágio, uso a linguagem C# e SQL para desenvolvimento e manutenção do software. <br>
+Atendo os analistas, por meio da plataforma da empresa e canais de comunicação, visando sempre a resolução de problemas. <br>
+Analiso os chamados, identifico os problemas, soluciono e respondo de maneira cordial. <br>
+Oriento/auxilio os analistas na utilização da plataforma web, utilizando a documentação para orientá-los. <br>
+E atualizo a documentação. <br><br>
+Entre algumas hard skills que tenho conhecimento, estão a lógica de programação, linguagens de programação (JavaScript, python e C#), TypeScript, linguagem de marcação HTML5, CSS3, bootstrap (framework front-end), React (uma das bibliotecas mais utilizadas para criação de aplicações front-end), Vite (empacotador), Docker, SQL (linguagem mais usada para criar, pesquisar, extrair e manipular dados dentro de um banco de dados relacional), banco de dados MySQL, MySQL workbench (interface gráfica mais utilizada para o MySQL), Node.js, Figma e métodologias agéis(kanban e scrun). <br>
 
-Meu objetivo é fazer transição de carreira, quero ajudar a criar softwares que ajudem a vida das pessoas. <br>
+Meu objetivo é me desenvolver mais e conquistar minha primeira vaga de juninho. <br>
 
 <table border="0">
   <tr>
@@ -24,13 +29,13 @@ Meu objetivo é fazer transição de carreira, quero ajudar a criar softwares qu
 - Nas horas vagas eu gosto de ler livros e praticar duolingo.</br>
       </details>
       <td>
-      <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-jogos-vorazes-em-chamas-34.gif'>
+      <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-ursinho-pooh-49.gif'>
     </td>
     </td> 
   </tr>
 </table>
 </br>
-:seedling: Atualmente estou aprendendo também UX/UI Design e praticando meus conhecimentos com projetos e novos cursos livres na programação. </br>
+:seedling: Atualmente estou lendo o livro "Curso de lógica de programação", de Ricardo Said. </br>
 
 *Como entrar em contato comigo:*
 
