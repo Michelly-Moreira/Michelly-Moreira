@@ -22,11 +22,9 @@ Meu objetivo é me desenvolver mais e conquistar minha primeira vaga de juninho.
       </details>
       <details>
           <summary><strong>:mag: Curiosidades sobre mim</strong></summary></br>
-- Tenho tripofobia. </br>
-- Não tomo café, mas gosto do cheiro.</br>
-- Meu chocolate favorito é o Caribe, da garoto.</br>
+- Meu primeiro curso de programação (desenvolvimento web full-stack), foi na Trybe.</br>
 - Na pandemia eu fiz trabalho voluntário, acolhendo pessoas que se sentiam infelizes.</br>
-- Nas horas vagas eu gosto de ler livros e praticar duolingo.</br>
+- Nas horas vagas eu gosto de ler livros, praticar duolingo e programação.</br>
       </details>
       <td>
       <img width="300" src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-ursinho-pooh-49.gif'>
