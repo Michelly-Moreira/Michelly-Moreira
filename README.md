@@ -4,6 +4,7 @@ Sou estagiária em desenvolvimento de software, na Atos Capital e estudante de e
 No estágio, uso a linguagem C# e SQL para desenvolvimento e manutenção do software. <br>
 Atendo os analistas, por meio da plataforma da empresa e canais de comunicação, visando sempre a resolução de problemas. <br>
 Analiso os chamados, identifico os problemas, soluciono e respondo de maneira cordial. <br>
+Auxilio na manutenção e melhoria de código e funcionalidades existentes. <br>
 Oriento/auxilio os analistas na utilização da plataforma web, utilizando a documentação para orientá-los. <br>
 E atualizo a documentação. <br>
 
