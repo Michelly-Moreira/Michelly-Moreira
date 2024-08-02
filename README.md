@@ -15,8 +15,7 @@ Meu objetivo é me desenvolver mais e conquistar minha primeira vaga de juninho.
       <details>
           <summary><strong>:muscle: HardSkills que tenho conhecimento</strong></summary></br>
 - lógica de programação; <br>
-- linguagens de programação (JavaScript, python e C#); <br>
-- TypeScript; <br>
+- linguagens de programação (JavaScript, TypeScript, python e C#); <br>
 - Linguagem de marcação HTML5, CSS3; <br>
 - Bootstrap (framework front-end); <br>
 - React (uma das bibliotecas mais utilizadas para criação de aplicações front-end); <br>
